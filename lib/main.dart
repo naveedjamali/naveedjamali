@@ -79,6 +79,14 @@ class _MyHomePageState extends State<MyHomePage> {
               'NAVEED JAMALI',
               style: TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
             ),
+            Text(
+              'Software Developer',
+              style: Theme.of(context).textTheme.headline4,
+            ),
+            Text(
+              'Develop Flutter Apps, Android Apps with Kotlin and Java, NodeJs Apps, and Desktop apps with WPF framework',
+              style: Theme.of(context).textTheme.bodyText1,
+            ),
           ],
         ),
       ),
