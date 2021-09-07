@@ -45,3 +45,6 @@ jobs:
         run: dart pub add --dev test
       - name: Run tests
         run: flutter test
+      - name: Flutter build for web
+        run: flutter build web
+        
