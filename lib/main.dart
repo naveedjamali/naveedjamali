@@ -84,7 +84,11 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             Text(
-              'Develop Flutter Apps, Android Apps with Kotlin and Java, NodeJs Apps, and Desktop apps with WPF framework',
+              'Flutter, Dart, Android, Java, Kotlin, WPF, C#, Node.js, Javascript..., ',
+              style: Theme.of(context).textTheme.bodyText1,
+            ), 
+            Text(
+              'Git, Github, Bitbucket, JUnit, Mockito, TDD, BDD, Agile, OOP,MS-SQL Server, MySql, Sqlite, MongoDb...',
               style: Theme.of(context).textTheme.bodyText1,
             ),
           ],
