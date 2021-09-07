@@ -44,4 +44,4 @@ jobs:
       - name: add tests
         run: dart pub add --dev test
       - name: Run tests
-        run: dart test
+        run: flutter test
